@@ -39,13 +39,9 @@ Each system folder (`MZ1` and `AT1`) contains:
 - E2-Ubiquitin: [2FUH](https://www.rcsb.org/structure/2FUH)
 
 ## Contact
-For questions or requests:
-**Vikas Kumar**  
+Vikas Kumar  
 Postdoctoral Researcher, BCMaterials, Spain  
 vikaspathania777@gmail.com
----
-
 ## License
-
 This data is provided for academic and research use only.
 
