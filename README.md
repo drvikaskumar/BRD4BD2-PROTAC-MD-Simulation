@@ -32,7 +32,7 @@ Each system folder (`MZ1` and `AT1`) contains:
 - **Modeling Tools**: Discovery Studio and HADDOCK web server
 - **Trajectory Analysis**: GROMACS tools (`gmx rms`, `gmx rmsf`, `gmx covar`, `gmx sham`), VMD
 
-## 📊 PDB Structures Used
+## PDB Structures Used
 
 - BRD4BD2-MZ1-VHL: [5T35](https://www.rcsb.org/structure/5T35)
 - Cullin2-RBX1: [5N4W](https://www.rcsb.org/structure/5N4W)
@@ -42,7 +42,7 @@ Each system folder (`MZ1` and `AT1`) contains:
 For questions or requests:
 **Vikas Kumar**  
 Postdoctoral Researcher, BCMaterials, Spain  
-✉️ vikaspathania777@gmail.com
+vikaspathania777@gmail.com
 ---
 
 ## License
